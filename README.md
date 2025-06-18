@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenish Kharel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <img src="https://www.freepik.com/free-vector/web-development-concept-with-programmer-ar_35496093.htm#fromView=keyword&page=1&position=1&uuid=647ef838-e07e-4331-a958-b35fa5137362&query=Coder" alt="jenishkharel5" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fprogrammer&psig=AOvVaw1LFjMc5A77R9ad9TVz9pC5&ust=1750360685156000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDUkurX-40DFQAAAAAdAAAAABAE" alt="jenishkharel5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenishkharel5" alt="jenishkharel5" /></a> </p>
 
